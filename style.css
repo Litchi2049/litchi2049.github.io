@@ -1,0 +1,5 @@
+/* <p></p>默认就会自动换行，但是加了<pre></pre>就不会了。这里还是标注出来 */
+p {
+    word-wrap: break-word;
+    word-break: normal;
+}
